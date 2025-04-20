@@ -181,11 +181,18 @@ export default function AboutPage() {
                   <div>
                     <h3 className="font-medium">系統開發團隊</h3>
                     <ul className="mt-2 space-y-1">
-                      <li>系統架構師 - 張明德</li>
-                      <li>前端開發 - 林佳穎、王大為</li>
-                      <li>後端開發 - 陳志明、李雅婷</li>
-                      <li>數據分析 - 黃子芸、劉建宏</li>
-                      <li>UI/UX設計 - 蔡依婷</li>
+                      <li>Tecxmate.com</li>
+                      <li>政策研究 - 賈昕 (Shin)</li>
+                      <li>解決方案 - 賈昕 (Shin), Nikolas Doan (段皇方）</li>
+                      <li>數據分析 - Edgar Effendi (洪豪進）</li>
+                      <li>系統設計 - Nikolas Doan (段皇方）</li>
+                      <li>原型設計 - Nikolas Doan (段皇方）</li>
+                      <li>介面設計 - Nikolas Doan (段皇方）</li>
+                      <li>簡報設計 - Nikolas Doan (段皇方）</li>
+                      <li>系統架構 - Brian Nguyen (阮文貴）</li>
+                      <li>前端開發 - Brian Nguyen (阮文貴）</li>
+                      <li>後端開發 - Brian Nguyen (阮文貴）</li>
+                      <li>App 開發 - Brian Nguyen (阮文貴）</li>
                     </ul>
                   </div>
                 </div>
