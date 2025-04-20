@@ -286,16 +286,28 @@ export default function AboutPage() {
                   <h3 className="font-medium mb-2">聯絡資訊</h3>
                   <ul className="space-y-2">
                     <li className="flex items-start">
-                      <span className="font-medium w-20">地址：</span>
-                      <span>台北市中正區忠孝東路一段1號</span>
+                      <span className="font-medium w-20">聯絡人：</span>
+                      <span>Brian Nguyen (阮文貴）</span>
                     </li>
                     <li className="flex items-start">
                       <span className="font-medium w-20">電話：</span>
-                      <span>(02) 2345-6789</span>
+                      <span>0900-299-506</span>
                     </li>
                     <li className="flex items-start">
                       <span className="font-medium w-20">電子郵件：</span>
-                      <span>contact@waterwise.gov.tw</span>
+                      <span>brian.tecx@gmail.com</span>
+                    </li>
+                    <li className="flex items-start">
+                      <span className="font-medium w-20">聯絡人：</span>
+                      <span>Nikolas Doan (段皇方）</span>
+                    </li>
+                    <li className="flex items-start">
+                      <span className="font-medium w-20">電話：</span>
+                      <span>0966-392-602</span>
+                    </li>
+                    <li className="flex items-start">
+                      <span className="font-medium w-20">電子郵件：</span>
+                      <span>niko.tecx@gmail.com</span>
                     </li>
                     <li className="flex items-start">
                       <span className="font-medium w-20">服務時間：</span>
