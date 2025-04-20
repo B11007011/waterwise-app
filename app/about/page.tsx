@@ -162,7 +162,7 @@ export default function AboutPage() {
               </CardHeader>
               <CardContent>
                 <div className="space-y-4">
-                  <div>
+                  {/* <div>
                     <h3 className="font-medium">研究團隊</h3>
                     <ul className="mt-2 space-y-1">
                       <li>鄭海軒 - 國立成功大學環境工程學系</li>
@@ -177,7 +177,7 @@ export default function AboutPage() {
                       <li>林財富 - 國立成功大學永續環境研究中心</li>
                       <li>王良銘 - 國立成功大學永續環境研究中心</li>
                     </ul>
-                  </div>
+                  </div> */}
                   <div>
                     <h3 className="font-medium">系統開發團隊</h3>
                     <ul className="mt-2 space-y-1">
